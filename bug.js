@@ -1,0 +1,1 @@
+While developing an Expo app, I encountered an unusual issue where the app would crash intermittently on Android devices.  The crash wasn't consistent and didn't produce any clear error messages in the console.  The app utilizes several asynchronous operations and React Navigation. The crashes seemed to happen more frequently when navigating between screens rapidly.
